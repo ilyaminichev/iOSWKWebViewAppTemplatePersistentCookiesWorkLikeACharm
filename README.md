@@ -28,15 +28,16 @@ If you want to hide visibilty of scroll bar you should do that in your remote we
 }
 ```
 
-If you want to enable iOS smooth scrolling everywhere or on specific elements
-You can apply to whole website/webapp
+If you want to enable iOS smooth scrolling everywhere or on specific elements you also do it in remot website/webapp CSS code
+
+Apply to whole website/webapp (CSS)
 ```
 * {
    -webkit-overflow-scrolling: touch;
 }
 ```
 
-or apply to specific elements, for example:
+or apply to specific elements, for example: (CSS)
 ```
 .someclass{
    overflow-y: scroll;
