@@ -25,3 +25,17 @@ Planned features and TO-DO's (feel free to pull request or fork):
 1. Option to browse local website (web app) shipped within iOS app bundle content (not only remote website by URL)
 2. Option to open external links (not your web app's URLS, other domains, website, external URLs, "You're leaving our website/app feature") in a visible mini-browser in app or even open some links or domains in Safari (or preferred default iOS web browsing app)
 3. Option to display "no internet connection" if there is no internet connection currently or browsing remote website fails by some other reason, or even "our servers currently down" if there internet connection is OK but your remote web app fails by certain HTTP status codes. With button "Try to connect again"
+
+Contact me anytime!
+Telegram @ilyaminichev
+Email ilyaminichev [at] gmail [dot] com
+VK @ilyaminichev
+Instagram @ilyaminichev
+Twitter @ilyaminihcev
+Facebook @ilyaminichev
+
+Quick clickable links
+[Telegram](https://t.me/ilyaminichev) [VK](https://vk.com/ilyaminichev) [VK Quick Message Link](https://vk.me/ilyaminichev) [Facebook](https://facebook.com/ilyaminichev) [Facebook Messenger](https://m.me/ilyaminichev) [Instagram](https://instagram.com/ilyaminichev) [Twitter](http://twitter.com/ilyaminichev)
+
+If you want to tip, donate or buy me a coffe
+[Paypal](https://paypal.me/ilyaminichev/) or [YooMoney (ex-Yandex.Money](https://yoomoney.ru/to/41001860338656) 
