@@ -39,7 +39,7 @@ Apply to whole website/webapp (CSS)
 
 or apply to specific elements, for example: (CSS)
 ```
-.someclass{
+.someclass {
    overflow-y: scroll;
    -webkit-overflow-scrolling: touch;
 }
