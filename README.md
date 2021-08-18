@@ -28,7 +28,7 @@ Planned features and TO-DO's (feel free to pull request or fork):
 
 Contact me easily anytime!  
 Email ilyaminichev [at] gmail [dot] com  
-[Telegram](https://t.me/ilyaminichev) [VK](https://vk.com/ilyaminichev) [VK Quick Message Link](https://vk.me/ilyaminichev) [Facebook](https://facebook.com/ilyaminichev) [Facebook Messenger](https://m.me/ilyaminichev) [Instagram](https://instagram.com/ilyaminichev) [Twitter](http://twitter.com/ilyaminichev)
+[Telegram](https://t.me/ilyaminichev) [VK](https://vk.com/ilyaminichev) [VK Quick DM](https://vk.me/ilyaminichev) [Facebook](https://facebook.com/ilyaminichev) [FB Messenger](https://m.me/ilyaminichev) [Instagram](https://instagram.com/ilyaminichev) [Twitter](http://twitter.com/ilyaminichev)
 
 If you want to tip, donate or buy me a coffe
 [Paypal](https://paypal.me/ilyaminichev/) or [YooMoney (ex-Yandex.Money](https://yoomoney.ru/to/41001860338656) 
