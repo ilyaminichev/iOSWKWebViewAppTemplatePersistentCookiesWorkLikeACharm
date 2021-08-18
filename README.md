@@ -22,19 +22,27 @@ Those steps are:
 Currently this iOS WKWebView App Template works by opening and browsing remote website by it's URL  
 
 If you want to hide visibilty of scroll bar you should do that in your remote website/webapp CSS code by adding:
-    *::-webkit-scrollbar {
-        display: none;
-    }
+```
+*::-webkit-scrollbar {
+   display: none;
+}
+```
 
 If you want to enable iOS smooth scrolling everywhere or on specific elements
 You can apply to whole website/webapp
-    * {
-        -webkit-overflow-scrolling: touch;
-    }
+```
+* {
+   -webkit-overflow-scrolling: touch;
+}
+```
 
 or apply to specific elements, for example:
-    overflow-y: scroll;
-    -webkit-overflow-scrolling: touch;
+```
+.someclass{
+   overflow-y: scroll;
+   -webkit-overflow-scrolling: touch;
+}
+```
     
 More on smooth scrolling here:
 https://stackoverflow.com/questions/37313872/vertical-scrolling-in-ios-not-smooth
