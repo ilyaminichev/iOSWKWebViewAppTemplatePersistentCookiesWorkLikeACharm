@@ -27,7 +27,7 @@ Planned features and TO-DO's (feel free to pull request or fork):
 3. Option to display "no internet connection" if there is no internet connection currently or browsing remote website fails by some other reason, or even "our servers currently down" if there internet connection is OK but your remote web app fails by certain HTTP status codes. With button "Try to connect again"
 
 Contact me easily anytime!
-Email ilyaminichev [at] gmail [dot] com
+Email ilyaminichev [at] gmail [dot] com  
 [Telegram](https://t.me/ilyaminichev) [VK](https://vk.com/ilyaminichev) [VK Quick Message Link](https://vk.me/ilyaminichev) [Facebook](https://facebook.com/ilyaminichev) [Facebook Messenger](https://m.me/ilyaminichev) [Instagram](https://instagram.com/ilyaminichev) [Twitter](http://twitter.com/ilyaminichev)
 
 If you want to tip, donate or buy me a coffe
