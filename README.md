@@ -26,7 +26,7 @@ Planned features and TO-DO's (feel free to pull request or fork):
 2. Option to open external links (not your web app's URLS, other domains, website, external URLs, "You're leaving our website/app feature") in a visible mini-browser in app or even open some links or domains in Safari (or preferred default iOS web browsing app)
 3. Option to display "no internet connection" if there is no internet connection currently or browsing remote website fails by some other reason, or even "our servers currently down" if there internet connection is OK but your remote web app fails by certain HTTP status codes. With button "Try to connect again"
 
-Contact me easily anytime!
+Contact me easily anytime!  
 Email ilyaminichev [at] gmail [dot] com  
 [Telegram](https://t.me/ilyaminichev) [VK](https://vk.com/ilyaminichev) [VK Quick Message Link](https://vk.me/ilyaminichev) [Facebook](https://facebook.com/ilyaminichev) [Facebook Messenger](https://m.me/ilyaminichev) [Instagram](https://instagram.com/ilyaminichev) [Twitter](http://twitter.com/ilyaminichev)
 
