@@ -12,7 +12,7 @@ A very well-commented webview app template (probably even too much commented, pr
 
 There are 5 ATTENTION: ACTION REQUIRED marks in the code  
 You can Cmd+F to quickly find them in code  
-Those steps are:  
+Those steps are:
 1. Choose Status Bar background color
 2. Put your remote website URL here
 3. Choose if your want to allow users to use pinch to zoom gesture and double tap to zoom in webview
