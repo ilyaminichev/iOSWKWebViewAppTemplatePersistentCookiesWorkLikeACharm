@@ -1,4 +1,4 @@
-# iOSWKWebViewAppTemplateCookiesWorkLikeACharm
+# iOSWKWebViewAppTemplatePersistentCookiesWorkLikeACharm
 iOS WKWebView webview App Template with fully working persistent cookies functionality (httpcookie, web cookie, browser cookie), custom status bar background color, option for white/black status bar text color, option to disable pinch to zoom and double tap to zoom in webview
 
 You have probably noticed that by default iOS WKWebView resets all cookies if you swipe app off memory or every time app is reloaded and new app session started
