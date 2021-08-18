@@ -3,7 +3,7 @@ iOS WKWebView webview App Template with fully working cookies functionality (htt
 
 You have probably noticed that by default iOS WKWebView resets all cookies if you swipe app off memory or every time app is reloaded and new app session started
 
-This WKWebView has a solution and a fix to preserve and save cookies to provide expected functionality from web apps
+This WKWebView app template has a solution and a fix to preserve and save cookies to provide expected functionality from web apps
 
 Supported iOS 13.0 - 14.7.1
 Succesfully tested and wokring on physical iOS 14.7.1 device and physical iPadOS 14.7.1 device
