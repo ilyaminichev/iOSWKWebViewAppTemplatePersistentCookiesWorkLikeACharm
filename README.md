@@ -7,7 +7,7 @@ This WKWebView app template has a solution and a fix to preserve and save cookie
 
 Supported iOS 13, iOS 15, iOS 15
 
-**Succesfully tested and working on multiple physical iOS 15.0.2 devices and one physical iPadOS 15.0.2 device**
+**Succesfully tested and working on multiple physical iOS 15.1 devices and one physical iPadOS 15.1 device**
 
 A very well-commented webview app template (probably even too much commented, probably I've failed all and every KISS principle while commenting this app template, but I wanted this app template to be easily understandable for absolute iOS beginners who had little or no previous iOS experience)
 
