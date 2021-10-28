@@ -127,12 +127,12 @@ class ViewController: UIViewController {
     }
     
     //ATTENTION: ACTION REQUIRED (4/5): Choose if you want Status Bar Text Color to be white or black
-    //By default Stats Bar Text Color is black
+    //By default Status Bar Text Color is black
     //Code segment below switches Status Bar Text Color to white
     //If you don't remove code segment below that Status Bar Text Color will be white
     //If you remove code segment below that Status Bar Text Color will be black
     //
-    //Next code segment is for in case you want to switch Stats Bar Text Color to white
+    //Next code segment is for in case you want to switch Status Bar Text Color to white
     //If you don't need switching to white Status Bar Text Color you can remove
     //the whole next code segment because the Status Bar Text Color is already black by default
     //
@@ -140,7 +140,7 @@ class ViewController: UIViewController {
     //
     //      1. COMPLETELY REMOVE CODE SEGMENT BELOW if you want to keep default Status Bar Text Color - Black
     //
-    //      2. KEEP CODE SEGMENT BELOW UNMODIFIED if you want to switch Stats Bar Text Color to White
+    //      2. KEEP CODE SEGMENT BELOW UNMODIFIED if you want to switch Status Bar Text Color to White
     //          Also the code segment below contains commented swift code line example how to switch back to default
     //          Status Bar black text color programmatically anytime (including more detailed explanation about it)
     //
