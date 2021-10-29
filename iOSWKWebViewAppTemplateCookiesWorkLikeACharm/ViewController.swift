@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         //     So I decided to go with this color different from all others used by iOS system in multiple usual scenarios
         //
         //
-        //By default in my webview app template Status Bar background color is pink (Not every app design, UI & color scheme is pink, but
+        //By default, in my webview app template Status Bar background color is pink (Not every app design, UI & color scheme is pink, but
         //even if your app is pink you still should set the color below to match perfectly with your app's pink color shade
         //Keep in mind that all ranges for red, green blue and alpha are 0-1 with decimals
         
@@ -84,7 +84,7 @@ class ViewController: UIViewController {
             webView.navigationDelegate = self
             
             //ATTENTION: ACTION REQUIRED (3/5): Choose if your want to allow users to use pinch to zoom gesture and double tap to zoom in webview
-            //By default WKWebView allows users to use pinch to zoom gesture and double tap to zoom in webview
+            //By default, WKWebView allows users to use pinch to zoom gesture and double tap to zoom in webview
             //Code segment below prevents users from using pinch to zoom gesture and double tap to zoom in webview
             //If you don't remove code segment below pinch to zoom gesture and double tap to zoom in webview will be diasbled
             //If you remove code segment below pinch to zoom gesture and double tap to zoom in webview will work
@@ -127,7 +127,7 @@ class ViewController: UIViewController {
     }
     
     //ATTENTION: ACTION REQUIRED (4/5): Choose if you want Status Bar Text Color to be white or black
-    //By default Status Bar Text Color is black
+    //By default, Status Bar Text Color is black
     //Code segment below switches Status Bar Text Color to white
     //If you don't remove code segment below that Status Bar Text Color will be white
     //If you remove code segment below that Status Bar Text Color will be black
@@ -141,7 +141,7 @@ class ViewController: UIViewController {
     //      1. COMPLETELY REMOVE CODE SEGMENT BELOW if you want to keep default Status Bar Text Color - Black
     //
     //      2. KEEP CODE SEGMENT BELOW UNMODIFIED if you want to switch Status Bar Text Color to White
-    //          Also the code segment below contains commented swift code line example how to switch back to default
+    //          Also, the code segment below contains commented swift code line example how to switch back to default
     //          Status Bar black text color programmatically anytime (including more detailed explanation about it)
     //
     
@@ -245,7 +245,7 @@ extension WKWebView {
 //ATTENTION: ACTION REQUIRED (5/5): Put your remote website URL here
 //
 //This iOS WKWebView template app will browse your remote website fullscreen (with Status Bar visible)
-//So keep in mind that your remote website should look and feel like iOS app (as much as possible),
+//So, keep in mind that your remote website should look and feel like iOS app (as much as possible),
 //especially if you are planning to distribute it via App Store and expect to successfully pass Apple's App Review
 
 let url = URL(string: "https://google.com")!
