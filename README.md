@@ -22,7 +22,7 @@ From upper link you will understand that all XCode 13 versions starting 13, 13.1
 
 Upper link provides Apple official macOS Big Sur 11 compatible Apple computers list, but I couldn't quickly find if all of those on the list are also support macOS Big Sur 11.3 version
 
-In conclusion of all above, if you are developing something and planning to publish something on App Store in coming months before April 2020 and your device doesn't support Xcode 13 and iOS 15 SDK, you'd better hurry a little or consider your hardware and device update/purchase strategy
+In conclusion of all above, if you are developing something and planning to publish something on App Store in coming months before April 2020 and your device doesn't support macOS Big Sur 11.3, Xcode 13 and iOS 15 SDK, you'd better hurry a little or consider your hardware and device update/purchase strategy
 
 &nbsp; 
 
