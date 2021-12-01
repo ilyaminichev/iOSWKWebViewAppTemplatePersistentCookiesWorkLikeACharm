@@ -9,6 +9,9 @@ Supported iOS 13, iOS 15, iOS 15
 
 **Successfully tested and working on multiple physical iOS 15.1 devices and one physical iPadOS 15.1 device**
 
+&nbsp; 
+
+
 **INFORMATION NOTE: Apple, officially: Starting April 2022, all iOS and iPadOS apps submitted to the App Store must be built with Xcode 13 and the iOS 15 SDK.** [Official source](https://developer.apple.com/ios/submit/)
 This very XCode App Project is created on my Mac Mini Late 2012 running latest supported macOS Catalina 10.15.17 on this device with all latest security updates and patches installed as of November 2021 with as well latest supported Xcode 12.4 (12D4e) on this macOS version
 
