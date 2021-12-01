@@ -5,6 +5,9 @@ You have probably noticed that by default iOS WKWebView resets all cookies if yo
 
 This WKWebView app template has a solution and a fix to preserve and save cookies to provide expected functionality from web apps
 
+&nbsp; 
+
+
 Supported iOS 13, iOS 15, iOS 15
 
 **Successfully tested and working on multiple physical iOS 15.1 devices and one physical iPadOS 15.1 device**
