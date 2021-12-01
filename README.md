@@ -9,6 +9,24 @@ Supported iOS 13, iOS 15, iOS 15
 
 **Successfully tested and working on multiple physical iOS 15.1 devices and one physical iPadOS 15.1 device**
 
+**INFORMATION NOTE: Apple, officially: Starting April 2022, all iOS and iPadOS apps submitted to the App Store must be built with Xcode 13 and the iOS 15 SDK.** [Official source](https://developer.apple.com/ios/submit/)
+This very XCode App Project is created on my Mac Mini Late 2012 running latest supported macOS Catalina 10.15.17 on this device with all latest security updates and patches installed as of November 2021 with as well latest supported Xcode 12.4 (12D4e) on this macOS version
+
+Also, some useful links:
+[Xcode and iOS SDK version minimum macOS supported list] (https://developer.apple.com/support/xcode/)
+
+From upper link you will understand that all XCode 13 versions starting 13, 13.1 and 13,2 (latest at the moment) require macOS Big Sur 11.3 as minimum
+[macOS Big Sur compatible Apple computers list] (https://support.apple.com/en-us/HT211238)
+
+Upper link provides Apple official macOS Big Sur 11 compatible Apple computers list, but I couldn't quickly find if all of those on the list are also support macOS Big Sur 11.3 version
+
+In conclusion of all above, if you are developing something and planning to publish something on App Store in coming months before April 2020 and your device doesn't support Xcode 13 and iOS 15 SDK, you'd better hurry a little or consider your hardware and device update/purchase strategy
+
+
+
+
+Ok, here we go:
+
 A very well-commented webview app template (probably even too much commented, probably I've failed all and every KISS principle while commenting this app template, but I wanted this app template to be easily understandable for absolute iOS beginners who had little or no previous iOS experience)
 
 There are 5 ATTENTION: ACTION REQUIRED marks in the code  
