@@ -27,7 +27,8 @@ In conclusion of all above, if you are developing something and planning to publ
 &nbsp; 
 &nbsp; 
 &nbsp; 
-
+&nbsp; 
+&nbsp; 
 
 Ok, here we go:
 
