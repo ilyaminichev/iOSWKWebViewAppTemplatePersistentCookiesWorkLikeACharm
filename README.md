@@ -13,10 +13,10 @@ Supported iOS 13, iOS 15, iOS 15
 This very XCode App Project is created on my Mac Mini Late 2012 running latest supported macOS Catalina 10.15.17 on this device with all latest security updates and patches installed as of November 2021 with as well latest supported Xcode 12.4 (12D4e) on this macOS version
 
 Also, some useful links:
-[Xcode and iOS SDK version minimum macOS supported list] (https://developer.apple.com/support/xcode/)
+[Xcode and iOS SDK version minimum macOS supported list](https://developer.apple.com/support/xcode/)
 
 From upper link you will understand that all XCode 13 versions starting 13, 13.1 and 13,2 (latest at the moment) require macOS Big Sur 11.3 as minimum
-[macOS Big Sur compatible Apple computers list] (https://support.apple.com/en-us/HT211238)
+[macOS Big Sur compatible Apple computers list](https://support.apple.com/en-us/HT211238)
 
 Upper link provides Apple official macOS Big Sur 11 compatible Apple computers list, but I couldn't quickly find if all of those on the list are also support macOS Big Sur 11.3 version
 
