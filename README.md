@@ -25,8 +25,10 @@ Upper link provides Apple official macOS Big Sur 11 compatible Apple computers l
 In conclusion of all above, if you are developing something and planning to publish something on App Store in coming months before April 2020 and your device doesn't support Xcode 13 and iOS 15 SDK, you'd better hurry a little or consider your hardware and device update/purchase strategy
 
 &nbsp; 
+
 &nbsp; 
 &nbsp; 
+
 &nbsp; 
 &nbsp; 
 
